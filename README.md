@@ -1,17 +1,16 @@
-# DIGITAL REPUBLIC CODE CHALLENGE
-
-Objetivo
-O Objetivo desse desafio é avaliar o conhecimento e capacidade dos candidatos às vagas de programação/desenvolvimento.
-O teste pode ser feito por qualquer nível de profissional, contudo o critério de avaliação será conforme a experiencia do candidato.
+# Sistema para calcular o tanto de tinta necessaria para pintar um comodo
 
 <h4 align="center"> 
 	🚧  Em construção  🚧
 </h4>  
 
-## O que deve ser desenvolvido
-Uma aplicação web ou mobile que ajude o usuário a calcular a quantidade de tinta necessária para pintar uma sala.
-Essa aplicação deve considerar que a sala é composta de 4 paredes e deve permitir que o usuário escolha qual a medida de cada parede e quantas janelas e portas possuem cada parede.
-Com base na quantidade necessária o sistema deve apontar tamanhos de lata de tinta que o usuário deve comprar, sempre priorizando as latas maiores. Ex: se o usuário precisa de 19 litros, ele deve sugerir 1 lata de 18L + 2 latas de 0,5L
+É uma aplicação web que ajuda o usuário a calcular a quantidade de tinta necessária para pintar uma sala.
+
+Essa aplicação considera que a sala é composta de 4 paredes e permite que o usuário escolha qual a medida de cada parede e quantas janelas e portas possuem cada parede.
+
+Com base na quantidade necessária o sistema deve apontar tamanhos de lata de tinta 
+que o usuário deve comprar, sempre priorizando as latas maiores. 
+Ex: se o usuário precisa de 19 litros, ele deve sugerir 1 lata de 18L + 2 latas de 0,5L
 
 ## Regras de negócio
 
