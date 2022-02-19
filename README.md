@@ -47,7 +47,7 @@ As variações de tamanho das latas de tinta são:
 
 ## Clone este repositório em uma pasta do seu servidor local
 ```bash
-$ git clone https://gitlab.com/teste441/DR-React-PHP.git
+$ git clone https://github.com/KellySoares/DR-React-PHP.git
 
 ```
 ## Acesse a pasta e instale as dependencias
